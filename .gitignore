@@ -1,1 +1,30 @@
 *.sh
+
+# Ignore all .csv files
+*.csv
+
+# Ignore log files
+*.log
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+venv/
+ENV/
+
+# Ignore Hadoop and Spark logs
+hadoop/logs/
+spark-warehouse/
+
+# Ignore results directory if it contains output data
+query_results/
+
+# Ignore temporary files
+*.tmp
+*.swp
