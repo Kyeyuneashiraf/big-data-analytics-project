@@ -22,7 +22,7 @@ This repository contains the code and documentation for the Big Data Analytics m
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AnthonyByansi/big-data-analytics-project.git
+    git clone https://github.com/Kyeyuneashiraf/big-data-analytics-project.git
     cd big-data-analytics-project
     ```
 
